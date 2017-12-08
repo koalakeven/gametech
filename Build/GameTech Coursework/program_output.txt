@@ -1,0 +1,89 @@
+[12:26:03] Loading Shader:
+[12:26:03]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechVertexBasic.glsl
+[12:26:03]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechFragSuperSample.glsl
+[12:26:03]     -> Linking Shader: Success!
+[12:26:03] 
+[12:26:03] Loading Shader:
+[12:26:03]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechVertexShadow.glsl
+[12:26:03]     -> Compiling Shader: ../../Data/Shaders/Common/EmptyFragment.glsl
+[12:26:03]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechGeomShadow.glsl
+[12:26:03]     -> Linking Shader: Success!
+[12:26:03] 
+[12:26:03] Loading Shader:
+[12:26:03]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechVertexFull.glsl
+[12:26:03]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechFragForwardRender.glsl
+[12:26:03]     -> Linking Shader: Success!
+[12:26:03] 
+[12:26:03] Loading Shader:
+[12:26:03]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/PointVertex.glsl
+[12:26:03]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/PointFragment.glsl
+[12:26:03]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/PointGeometry.glsl
+[12:26:03]     -> Linking Shader: Success!
+[12:26:03] 
+[12:26:03] Loading Shader:
+[12:26:03]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/Vertex.glsl
+[12:26:03]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/Fragment.glsl
+[12:26:03]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/LineGeometry.glsl
+[12:26:03]     -> Linking Shader: Success!
+[12:26:03] 
+[12:26:03] Loading Shader:
+[12:26:03]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/VertexColOnly.glsl
+[12:26:03]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/Fragment.glsl
+[12:26:03]     -> Linking Shader: Success!
+[12:26:03] 
+[12:26:03] Loading Shader:
+[12:26:03]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/TextVertex.glsl
+[12:26:03]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/TextFragment.glsl
+[12:26:03]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/TextGeometry.glsl
+[12:26:03]     -> Linking Shader: Success!
+[12:26:03] 
+[12:26:03] Loading Shader:
+[12:26:03]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechVertexPicker.glsl
+[12:26:03]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechFragScreenPicker_nsightfix.glsl
+[12:26:03]     -> Linking Shader: Success!
+[12:26:03] 
+[12:26:03] Loading Mesh: ../../Data/Meshes/cube.obj
+[12:26:03] 
+[12:26:03] Loading Mesh: ../../Data/Meshes/sphere.obj
+[12:26:03] 
+[12:26:03] [SceneManager] - Enqueued scene: "GameTech #1 - Framework Sandbox!"
+[12:26:03] 
+[12:26:03] This is a log entry - It will printed to the console, on screen log and <project_dir>program_output.txt
+[12:26:03] [SceneManager] - Scene switched to: "GameTech #1 - Framework Sandbox!"
+[12:26:03] [SceneManager] - Enqueued scene: "GameTech #2 - Peace and quiet"
+[12:26:03] [SceneManager] - Enqueued scene: "GameTech #3 - More peace and quiet"
+[12:26:06] Physics too slow to run in real time!
+[12:26:06] Physics too slow to run in real time!
+[12:26:06] Physics too slow to run in real time!
+[12:26:06] Physics too slow to run in real time!
+[12:26:06] Physics too slow to run in real time!
+[12:26:06] Physics too slow to run in real time!
+[12:26:06] Physics too slow to run in real time!
+[12:26:06] Physics too slow to run in real time!
+[12:26:06] Physics too slow to run in real time!
+[12:26:07] Physics too slow to run in real time!
+[12:26:07] Physics too slow to run in real time!
+[12:26:07] Physics too slow to run in real time!
+[12:26:07] Physics too slow to run in real time!
+[12:26:07] Physics too slow to run in real time!
+[12:26:07] Physics too slow to run in real time!
+[12:26:07] Physics too slow to run in real time!
+[12:26:07] Physics too slow to run in real time!
+[12:26:08] Physics too slow to run in real time!
+[12:26:08] Physics too slow to run in real time!
+[12:26:08] Physics too slow to run in real time!
+[12:26:08] Physics too slow to run in real time!
+[12:26:08] Physics too slow to run in real time!
+[12:26:08] Physics too slow to run in real time!
+[12:26:08] Physics too slow to run in real time!
+[12:26:08] Physics too slow to run in real time!
+[12:26:09] Physics too slow to run in real time!
+[12:26:09] Physics too slow to run in real time!
+[12:26:09] Physics too slow to run in real time!
+[12:26:09] Physics too slow to run in real time!
+[12:26:09] Physics too slow to run in real time!
+[12:26:09] Physics too slow to run in real time!
+[12:26:09] [SceneManager] - Exiting scene -
+[12:26:09] 
+[12:26:09] [SceneManager] - Scene switched to: "GameTech #2 - Peace and quiet"
+[12:27:08] [SceneManager] Closing scene manager
