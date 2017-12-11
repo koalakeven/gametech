@@ -1,0 +1,7 @@
+﻿  EmptyScene.cpp
+  SOIL.lib(SOIL.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  已完成代码的生成
+glew32.lib(glew.obj) : warning LNK4099: 未找到 PDB“glew_static.pdb”(使用“glew32.lib(glew.obj)”或在“C:\Users\zitao wang\Desktop\8503\GameTech 2017\Build\Release\glew_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  GameTech Coursework.vcxproj -> C:\Users\zitao wang\Desktop\8503\GameTech 2017\Build\Release\GameTech Coursework.exe
